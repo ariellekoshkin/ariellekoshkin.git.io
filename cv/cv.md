@@ -4,16 +4,15 @@ output:
     css: ~/brick7.github.iov3/air.css
 ---
 <center>
-[Home](https://briannarick.github.io) | CV | [Publications](../publications/pubs.html) | [Research](../research/research.html) | [DataViz](../dataviz/dataviz.html)
+[Home](https://briannarick.github.io/ariellekoshkin.github.io) | CV | [Publications](../publications/pubs.html) | [Research](../research/research.html) | [DataViz](../dataviz/dataviz.html)
 </center>
 
-# CV - Brianna Rick
+# CV - Arielle Koshkin
 
 ## Education
 
-- PhD Geosciences (2018-present) | Colorado State University, Fort Collins, CO
-- MS Geography (2016-2018) | University of Montana, Missoula, MT
-- BS Geology (2010-2014) | Carleton College, Northfield, MN
+- MS Geography (2019-present) | University of Nevada, Reno, NV
+- BS Biology (2010-2014) | Carleton College, Northfield, MN
 
 ## Professional Experience
 
