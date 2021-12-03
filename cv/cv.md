@@ -1,17 +1,17 @@
 ---
 output: 
   html_document: 
-    css: ~/brick7.github.iov3/air.css
+    css: ~/ariellekoshkin.github.io/air.css
 ---
 <center>
-[Home](https://briannarick.github.io/ariellekoshkin.github.io) | CV | [Publications](../publications/pubs.html) | [Research](../research/research.html) | [DataViz](../dataviz/dataviz.html)
+[Home](https://github.com/ariellekoshkin/ariellekoshkin.github.io.gito) | CV | [Publications](../publications/pubs.html) | [Research](../research/research.html) | [DataViz](../dataviz/dataviz.html)
 </center>
 
 # CV - Arielle Koshkin
 
 ## Education
 
-- MS Geography (2019-present) | University of Nevada, Reno, NV
+- MS Geography (w2019-present) | University of Nevada, Reno, NV
 - BS Biology (2010-2014) | Carleton College, Northfield, MN
 
 ## Professional Experience
