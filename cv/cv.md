@@ -1,10 +1,10 @@
 ---
 output: 
   html_document: 
-    css: ~/brick7.github.iov3/air.css
+    css: ~/ariellekoshkin.git.io/air.css
 ---
 <center>
-[Home](https://briannarick.github.io/ariellekoshkin.github.io) | CV | [Publications](../publications/pubs.html) | [Research](../research/research.html) | [DataViz](../dataviz/dataviz.html)
+[Home](https://ariellekoshkin.github.io/) | CV | [Publications](../publications/pubs.html) | [Research](../research/research.html) | [DataViz](../dataviz/dataviz.html)
 </center>
 
 # CV - Arielle Koshkin
