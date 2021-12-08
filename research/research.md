@@ -1,27 +1,23 @@
 ---
 output:
   html_document:
-    css: ~/brick7.github.iov3/air.css
-    vss: ../air.css
+    css: /Users/ariellekoshkin/Desktop/Grad_school/ariellekoshkin.github.io/air.css 
+    vss: air.css
 ---
 <center>
-[Home](https://briannarick.github.io/ariellekoshkin.github.io) | [CV](../cv/cv.html) | [Publications](../publications/pubs.html) | Research | [DataViz](../dataviz/dataviz.html)
+<p style="font-size:3vw;"> 
+[Home](https://github.com/ariellekoshkin/ariellekoshkin.github.io.git) | CV | [Presentations](../presentations/pubs.html) | [Research](../research/research.html) | [AGU 2021](../AGU_2021/dataviz.html)
+</p>
 </center>
 
 # About my research
 
-## Alaska's glacial lakes and outburst floods
+## The Creek Fire and San Joaquin Watershed
 
-<br>Glacial lake outburst floods (or GLOFs) occur when a glacial lake dam (such as a moraine) fails or is overtopped, suddenly releasing a large volume of water. These floods can have massive impacts on downstream ecosystems, infrastructure, and communities. GLOFs can destroy infrastructure and cause the loss of human lives in mountain communities. Understanding how these lakes are changing as glaciers thin and retreat is a critical first step in assessing the hazard potential of individual lakes, and eventually formulating hazard mitigation strategies for local communities. As part of my Ph.D. research, I use novel remote sensing tools, such as the cloud-based Google Earth Engine, to process large datasets to <a href="AKmapNov152021.html">map the evolution of glacial lakes</a> in Alaska over the past 40 years. Using this dataset, I also document lake drainage events, which contribute to our understanding of evolving lake hazards in a changing climate.
+<br>I am currently investigating the impacts of the California Creek Fire on the alpine and sub-alpine snowpack. In the fall of 2020, the Creek Fire burned almost 40% of the Upper San Joaquin watershed (USJ), a large portion of which is in the seasonal snow zone. The USJ is an important watershed because it supplies water to the larger San Joaquin River that is a direct source of water for many farmers in the Central Valley of California, our nation’s hub of food production. Because of the USJ’s importance for water supply in California, the Airborne Snow Observatory Inc. (ASO) has flown light detection and ranging (LiDAR) and hyperspectral imagery multiple times each year since 2015 to monitor snow depth and snow water equivalent (SWE). I am curious how such a large fire can impact melt rates of snow and subsequently the water available from snowmelt to downstream users. Using a combination of remote sensing techniques, field-based measurements, and modeling, I seek to quantify the decline in water availability after the fire. Our field measurements were also used as validation for the ASO flight campaign.
 
 <br><center>
-<img src="D9B8KufUYAIqVgb.jpeg" width=500></img> 
+<img src="huntinglake_landscape.jpg" width=500></img> 
 </center> <br>
 
-## The Lake Agnes Rock Glacier
 
-<br>I investigate the Lake Agnes rock glacier as a case study to better understand how active rock glaciers within the Front Range act as climate resilient cold-water reservoirs. In Colorado, rock glaciers outnumber traditional ice glaciers and cover a larger spatial extent, suggesting that they contain a larger volume of ice than glaciers themselves. In certain basins, the reduced climate sensitivity of rock glaciers (due to a thick debris cover) and their consistent cold-water input to mountain streams will likely provide a refuge for cold-water species in a warming climate. For this research, I use a combination of geophysics (e.g. seismic refraction, ground-penetrating radar), remote sensing (e.g. Structure from Motion, lidar), and hydrochemical analysis (e.g. isotopes, ion chromatography) to better understand the ice content, movement, and water supply of the Lake Agnes rock glacier.
-
-<br><center>
-<img src="CaptureRGzoomedOut.JPG" width=500></img> 
-</center><br> 

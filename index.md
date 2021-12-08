@@ -5,25 +5,29 @@ output:
     vss: air.css
 ---
 <center>
-Home | [CV](cv/cv.html) | [Publications](publications/pubs.html) | [Research](research/research.html) | [DataViz](dataviz/dataviz.html)
+<p style="font-size:3vw;"> 
+[Home](https://github.com/ariellekoshkin/ariellekoshkin.github.io.git) | CV | [Presentations](../presentations/pubs.html) | [Research](../research/research.html) | [AGU 2021](../AGU_2021/dataviz.html)
+</p>
 </center>
 
+
 # Arielle Koshkin
+<center>
+<img src="Tahoe_mountains.jpg" width=1000></img> 
+</center> 
 ## MS Student, Hydrologic Sciences <br /> University of Nevada, Reno
 
-I am broadly interested in how large environmental disasters such as fire impact the storage of our snow and in turn our water resources. 
+Arielle is a current master's student in the <a href="https://www.unr.edu/hydrologic-sciences">Graduate Program of Hydrological Sciences</a> at University of Nevada, Reno and part of the <a href="https://www.computationalmountainstudies.com/">  Computational Mountain Studies Research Group</a>. Her work explores how large fires impact the storage of snow and the downstream effects on water resources. Prior to graduate school, Arielle taught high school science, worked at a local land trust, and lead trips abroad for high school students. She grew up in Oakland, CA, and received a B.A. in Biology from Carleton College in Northfield, MN.
+In her free time, she loves to explore the mountains by bike, foot, or ski.
 
-I am currently investigating the impacts of the California Creek Fire on the alpine and sub-alpine snowpack. I am curious how such a large fire can impact melt rates of snow and subsequently the water available from snowmelt to downstream users. Using a combination of remote sensing techniques, field-based measurements, and modeling, I seek to quantify the decline in water availability after the fire.
 
-I grew up in Oakland, CA, and received a B.S. in Biology from Carleton College in Northfield, MN. Prior to graduate school, Arielle taught high school science, worked at a local land trust, and lead trips abroad for high school students. She is currently pursuing a Master's Degree in the Graduate Program of Hydrological Science. Her research is focused on understanding the post-fire impacts on alpine snowpack in snow-dominated watersheds and the subsequent hydrological impacts these massive fires have on water resources. In her free time, she loves to explore the mountains by bike, foot, or ski.
-
+<br></center> 
+<img src="smile_shot.jpg" width=350 ></img> 
 <center>
-<img src="website-photo.jpg" width=350></img> 
-<img src="Ari1.JPG" width=350></img> 
-</center> 
-
 <center>
 Contact me: <br />
 Arielle Koshkin <br />
 [akoshkin [at] nevada.unr.edu](mailto:akoshkin@nevada.unr.edu)
 </center>
+
+
