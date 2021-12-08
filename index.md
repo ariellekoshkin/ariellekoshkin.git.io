@@ -16,15 +16,12 @@ output:
 <img src="Tahoe_mountains.jpg" width=1000></img> 
 </center> 
 ## MS Student, Hydrologic Sciences <br /> University of Nevada, Reno
+<br />
 
-Arielle is a current master's student in the <a href="https://www.unr.edu/hydrologic-sciences">Graduate Program of Hydrological Sciences</a> at University of Nevada, Reno and part of the <a href="https://www.computationalmountainstudies.com/">  Computational Mountain Studies Research Group</a>. Her work explores how large fires impact the storage of snow and the downstream effects on water resources. Prior to graduate school, Arielle taught high school science, worked at a local land trust, and lead trips abroad for high school students. She grew up in Oakland, CA, and received a B.A. in Biology from Carleton College in Northfield, MN.
-In her free time, she loves to explore the mountains by bike, foot, or ski.
+<image id=”image-one” img src="smile_shot.jpg" align= "left" width=250 margin-left:10px>
 
+Hi! My name is Arielle Koshkin and I am a current master student in the <a href="https://www.computationalmountainstudies.com/">  Computational Mountain Studies Research Group</a>, in the <a href="https://www.unr.edu/hydrologic-sciences">Graduate Program of Hydrological Sciences</a> at University of Nevada, Reno. My research explores how large fires impact the melt rates and storage of snow and in turn have downstream effects on water resources and water mangers. I received a B.A. in Biology from Carleton College in Northfield, MN. In my free time, I love to explore the mountains by bike, foot, or ski.
 
-<br></center> 
-<img src="smile_shot.jpg" width=350 ></img> 
-<center>
-<center>
 Contact me: <br />
 Arielle Koshkin <br />
 [akoshkin [at] nevada.unr.edu](mailto:akoshkin@nevada.unr.edu)
