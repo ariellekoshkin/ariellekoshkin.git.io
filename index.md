@@ -6,7 +6,7 @@ output:
 ---
 <center>
 <p style="font-size:3vw;"> 
-[Home](https://ariellekoshkin.github.io) | [CV](../cv/cv.html) | [Presentations](../publications/pubs.html) | [Research](../research/research.html) | [AGU 2021](../dataviz/dataviz.html)
+[Home](https://ariellekoshkin.github.io) | [CV](../cv/cv.html) | [Presentations](../presentations/pubs.html) | [Research](../research/research.html) | [AGU 2021](../AGU/dataviz.html)
 </p>
 </center>
 
