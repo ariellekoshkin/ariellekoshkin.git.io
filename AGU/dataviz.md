@@ -11,7 +11,7 @@ output:
 </center>
 
 # AGU Poster
-<em>Click on the image to see the full visualization</em>
+<em></em>
       <img src="AGU_poster.jpg">
  
 
